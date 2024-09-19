@@ -1,5 +1,15 @@
 - 👋 Hi, I’m Olha
-- 👀 I’m an experienced front-end developer with expertise in technologies like HTML, CSS, JavaScript, React, NodeJs, WordPress, Bootstrap, Jest, Supabase, and more.  
+- 👀 👀 I’m an experienced front-end developer with expertise in technologies like:
+  - ![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png) HTML
+  - ![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png) CSS
+  - ![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png) JavaScript
+  - ![React](https://img.icons8.com/ios-filled/50/000000/react.png) React
+  - ![WordPress](https://img.icons8.com/ios-filled/50/000000/wordpress.png) WordPress
+  - ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png) Bootstrap
+  - ![Jest](https://img.icons8.com/ios-filled/50/000000/jest.png) Jest
+  - ![Ubuntu](https://img.icons8.com/ios-filled/50/000000/ubuntu.png) Ubuntu
+  - ![VirtualBox](https://img.icons8.com/ios-filled/50/000000/virtualbox.png) VirtualBox
+  - ![Supabase](https://img.icons8.com/ios-filled/50/000000/supabase.png) Supabase 
 - 🌱 I’m currently learning more about backend integrations and advanced JavaScript frameworks.  
 - 💞️ I’m looking to collaborate on exciting and innovative web projects that push the boundaries of front-end development.  
 - 📫 How to reach me: You can contact me via [email](mailto:olha.pobedynska@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/olha-pobedynska/).   
